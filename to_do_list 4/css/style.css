@@ -1,0 +1,15 @@
+#list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#addButton{
+  border: 2px solid red;
+}
+
+main{
+  background-image: url("todo_list.jpeg");
+  height: 664px;
+  width: 100%;
+}
